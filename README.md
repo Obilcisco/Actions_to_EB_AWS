@@ -7,4 +7,4 @@ Status of Last Deployment:<br>
 
 
 # Copyleft by Denis Astahov ADV-IT 2019.
-# Copyrated by Oleg Biletskyi from Denis Astahov 2022
+# Copyrated by Oleg Biletskyi from Denis Astahov ADV-IT 2022
